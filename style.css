@@ -1,0 +1,15 @@
+.m-container{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.col{
+    text-align: center;
+}
+#texta{
+    text-align: start;
+}
+#textb{
+    text-align: end;
+}
